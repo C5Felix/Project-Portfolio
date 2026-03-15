@@ -16,8 +16,12 @@ Data Analysis
 Business Analysis
 
 ## Projects
-Projects will be added and documented here with details including:
-* Problem Statement
-* Tools & Technologies Used
-* Approach / Methodology
-* Key Insights or Results
+### 1. Airline Market Concentration Analysis
+Analysis of the Indian airline industry using the Herfindahl–Hirschman Index (HHI) to measure market concentration and competition trends.
+
+Tools Used:
+- Excel
+- Market Structure Analysis
+- Industry Data
+
+Folder: Airline_Market_Concentration_Analysis
