@@ -37,6 +37,26 @@ Data Modeling
 Business Analytics
 
 ## Featured Projects
+
+## 001_Technological Disclosure Analysis in India
+Analyzed trends and patterns in technological disclosures using structured datasets to understand innovation activity across sectors in India.
+
+**Key Highlights:**
+- Performed data analysis on disclosure trends
+- Identified sector-wise innovation patterns
+- Generated insights using data visualization techniques
+- Focused on policy and business implications
+
+### 002_EasyQ – Digital Queue Management System
+A healthcare-tech solution designed to reduce waiting time in clinics through real-time queue tracking and smart appointment scheduling.
+
+**Key Highlights:**
+- Developed a product prototype for queue management
+- Designed real-time tracking & notification system
+- Conducted market sizing (TAM/SAM/SOM)
+- Improved patient experience and clinic efficiency
+
+
 ## 01 — Telco Customer Churn Prediction
 
 Machine learning model that predicts whether telecom customers are likely to churn.
